@@ -1,0 +1,14 @@
+{
+  "file_list": [
+  ],
+  "custom_middleware": {
+    "post": [
+      {
+        "name": "MyPostHook"
+      }
+    ],
+    "driver": "grpc"
+  },
+  "checksum": "",
+  "signature": ""
+}
